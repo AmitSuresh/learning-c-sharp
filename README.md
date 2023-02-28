@@ -1,2 +1,2 @@
-# learning-c-sharp
+# learning-c#
 learning after work
